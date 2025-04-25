@@ -1,4 +1,5 @@
 ### 👋 Olá, eu sou o Carlos Alexandre!
+![Banner](https://via.placeholder.com/1024x320)
 Sou um entusiasta de tecnologia com experiência em Suporte de TI. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, buscando sempre aprender e contribuir com projetos inovadores.
 - 🌱 Atualmente estudando:
   - Frameworks modernos como Angular
