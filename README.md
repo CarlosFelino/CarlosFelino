@@ -1,30 +1,25 @@
-### Olá Mundo! Eu sou o Carlos Alexandre 👋
-##
-- 🔭 Hoje trabalho com Suporte em TI
-- 🌱 Estudando
-- 😄 Pronouns: Ele/Dele
-##
+### 👋 Olá, eu sou o Carlos Alexandre!
+Sou um entusiasta de tecnologia com experiência em Suporte de TI. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, buscando sempre aprender e contribuir com projetos inovadores.
+- 🌱 Atualmente estudando:
+  - Frameworks modernos como Angular
+  - Desenvolvimento de aplicações web responsivas
 
-### Minhas Redes Sociais
-<div> 
-  <a href="https://instagram.com/elcarlos_felino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/elcarlos_felino" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/c-alexandre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br>
+### 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-alexandre)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elcarlos_felino)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/elcarlos_felino)
 
-### Tecnologias que uso
-<div style="display: inline_block">
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Carlos-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-</div>
+### 🛠️ Tecnologias e Ferramentas
+**Linguagens de Programação:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Frameworks e Bibliotecas:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Ferramentas:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Minhas Estatísticas
-<div>
-  <a href="https://github.com/CarlosFelino"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosFelino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFelino&layout=compact&langs_count=16&theme=dracula">
-</div>
+### 📊 Estatísticas do GitHub
+![CarlosFelino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosFelino&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFelino&layout=compact&theme=radical)
