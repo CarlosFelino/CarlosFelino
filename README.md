@@ -1,7 +1,7 @@
 ### Olá Mundo! Eu sou o Carlos Alexandre 👋
 ##
 - 🔭 Hoje trabalho com Suporte em TI
-- 🌱 Estudando Java
+- 🌱 Estudando
 - 😄 Pronouns: Ele/Dele
 ##
 
