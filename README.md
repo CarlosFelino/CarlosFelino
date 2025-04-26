@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou o Carlos Alexandre!
-Sou um entusiasta de tecnologia com experiência em Suporte de TI. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, buscando sempre aprender e contribuir com projetos inovadores.
+Sou estudante de Análise e Desenvolvimento de Sistemas e experiência em Suporte de TI. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, buscando sempre aprender e contribuir com projetos inovadores.
 - 🌱 Atualmente estudando:
   - Frameworks modernos como Angular
   - Desenvolvimento de aplicações web responsivas
